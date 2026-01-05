@@ -5,7 +5,7 @@
 
 ---
 
-I'm a product-focused data scientist and analyst focused on understanding users and informing what teams build next. I have an MS in Business Analytics at USC Marshall and work end-to-end, from SQL analysis and A/B tests to ML and NLP systems.
+I'm a product-focused data scientist and analyst focused on understanding users and informing what teams build next. I have an MS in Business Analytics at University of Southern California and work end-to-end, from SQL analysis and A/B tests to ML and NLP systems.
 
 **My Work Spans:**
 - **Product Analytics**: Metrics definition, funnel optimization, cohort analysis, and retention diagnostics
@@ -39,7 +39,7 @@ Built ML systems including RAG-based compliance tools (AWS Bedrock), toxicity cl
 **Product Data Analyst Intern** — Product Growth & Revenue Analytics
 
 *LA Clippers | May 2025 – Sep 2025*
-- **Experimentation**: Designed quasi-experiments on discount bundles, measuring +15% lift in early sales through causal impact analysis
+- **Experimentation**: Designed quasi-experiments on discount bundles, measuring 15% lift in early sales through causal impact analysis
 - **Forecasting & Segmentation**: Built demand forecasting models (clustering + regression) improving accuracy by 40% and enabling dynamic pricing across 6 tiers
 - **Cohort Analysis**: Segmented 5M+ digital engagement records into 3 cohorts, driving +35% new customer acquisition via targeted campaigns
 - **Scenario Modeling**: Conducted SQL-based scenario analysis for resale pricing strategy, informing feature launch projected to increase category revenue by ~50%
@@ -69,7 +69,7 @@ Built ML systems including RAG-based compliance tools (AWS Bedrock), toxicity cl
 
 ## Featured Projects
 
-### [Duolingo User Segmentation & Growth Strategy](https://github.com/VaishMaddy/Duolingo-User-Segmentation)
+### [Duolingo User Segmentation & Growth Strategy](https://github.com/VaishMaddy/duolingo-product-engagement-analysis)
 **Behavioral clustering for retention & monetization**
 Applied K-means clustering on engagement metrics (session frequency, streak consistency, completion rates) to segment users into distinct learner personas. Generated persona-specific retention playbooks and subscription targeting strategies. *Tech: Python, Scikit-Learn, feature engineering, clustering.*
 
@@ -89,7 +89,7 @@ Built ETL pipeline for 37K+ insurance policies, engineered risk features (vehicl
 **Spatial clustering & regression for marketplace optimization**
 Conducted EDA on 100K+ pickups, applied K-means clustering and spatial analysis (GeoPandas) to identify high-demand hotspots, reducing wait times by 15-20% and informing 3 market entry zones. *Tech: Python, StatsModels, GeoPandas, clustering.*
 
-### [A/B Testing for Player Retention](https://github.com/VaishMaddy/AB-Testing-Cookie-Cats)
+### [A/B Testing for Player Retention](https://github.com/VaishMaddy/Cookie-Cats-AB-Test-Retention)
 **Statistical hypothesis testing for mobile game activation**
 Analyzed A/B tests on progression gate placement (90K+ players) using confidence intervals and variance analysis, uncovering that delaying the first gate caused a 0.8pp drop in 7-day retention. *Tech: Python, A/B testing, statistical inference.*
 
@@ -118,8 +118,7 @@ A/B testing, causal inference, hypothesis testing, regression analysis, clusteri
 
 ## Education
 
-**M.S. Business Analytics** (Data Science Track) — USC Marshall | Dec 2025
-4.0 GPA | Graduate Teaching Assistant | Merit Scholarship
+**M.S. Business Analytics** (Data Science Track) — University of Southern California | Dec 2025 | GPA : 4.0
 
 **B.A. Economics** (Statistics & Financial Econometrics) — Nanyang Technological University | May 2022
 

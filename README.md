@@ -7,7 +7,7 @@
 
 I'm a product-focused data scientist and analyst who translates user behavior into business impact. Currently finishing my MS in Business Analytics at USC Marshall (4.0 GPA), I work across the full analytics stack—from **SQL dashboards and A/B tests** to **production ML systems and NLP**.
 
-**What I do:**
+**My Work Spans:**
 - **Product Analytics**: Metrics definition, funnel optimization, cohort analysis, and retention diagnostics
 - **Experimentation & Causal Inference**: A/B testing, quasi-experiments, and incrementality measurement
 - **User Segmentation**: Clustering and behavioral modeling for personalization and targeting

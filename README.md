@@ -5,7 +5,7 @@
 
 ---
 
-I'm a product-focused data scientist and analyst who translates user behavior into business impact. Currently finishing my MS in Business Analytics at USC Marshall (4.0 GPA), I work across the full analytics stack—from **SQL dashboards and A/B tests** to **production ML systems and NLP**.
+I'm a product-focused data scientist and analyst focused on understanding users and informing what teams build next. I have an MS in Business Analytics at USC Marshall and work end-to-end, from SQL analysis and A/B tests to ML and NLP systems.
 
 **My Work Spans:**
 - **Product Analytics**: Metrics definition, funnel optimization, cohort analysis, and retention diagnostics
@@ -14,11 +14,11 @@ I'm a product-focused data scientist and analyst who translates user behavior in
 - **ML in Production**: NLP, classification, regression, and RAG systems for business problems
 - **Data Infrastructure**: ETL pipelines, dashboards, and analytics tooling at scale
 
-I've worked across B2B SaaS, banking, fintech, and consumer products—answering questions like: *What's driving churn? How do we price this feature? Which user segments should we target? What levers maximize revenue?*
+I've worked across B2B SaaS, banking, fintech, and consumer products, answering questions like: *What’s driving churn? How do we price this feature? Which segments actually move revenue?*
 
 ---
 
-## What I Work On
+## What I've Worked On
 
 ### Product Analytics & Business Intelligence
 Built real-time dashboards (SQL, Power BI, Tableau) tracking KPIs like CAC, LTV, conversion funnels, and cohort retention. Conducted deep-dive analyses on user behavior to inform product roadmaps and GTM strategy.
@@ -37,7 +37,8 @@ Built ML systems including RAG-based compliance tools (AWS Bedrock), toxicity cl
 ## Experience
 
 **Product Data Analyst Intern** — Product Growth & Revenue Analytics
-*May 2025 – Sep 2025*
+
+*LA Clippers | May 2025 – Sep 2025*
 - **Experimentation**: Designed quasi-experiments on discount bundles, measuring +15% lift in early sales through causal impact analysis
 - **Forecasting & Segmentation**: Built demand forecasting models (clustering + regression) improving accuracy by 40% and enabling dynamic pricing across 6 tiers
 - **Cohort Analysis**: Segmented 5M+ digital engagement records into 3 cohorts, driving +35% new customer acquisition via targeted campaigns
@@ -45,6 +46,7 @@ Built ML systems including RAG-based compliance tools (AWS Bedrock), toxicity cl
 - **Dashboards**: Developed real-time Power BI dashboards for sales and revenue KPIs, reducing manual reporting time by 30%
 
 **Data Analyst** — Corporate Banking Strategy & Product Growth
+
 *HSBC | Jul 2022 – Jul 2024*
 - **Dashboard & Insights**: Built centralized B2B dashboards (SQL, Tableau) surfacing churn risk and growth segments, uncovering $5B in untapped revenue
 - **Product Launch**: Partnered with Product and Engineering to launch a multi-currency account, benchmarking 10+ competitors to guide pricing strategy and secure a $20M partnership
@@ -52,12 +54,14 @@ Built ML systems including RAG-based compliance tools (AWS Bedrock), toxicity cl
 - **Financial Modeling**: Conducted revenue projections and scenario analysis for SaaS platform financing ($15M capital recommendation)
 
 **Product Data Analyst Intern** — Fintech & Digital Payments Strategy
+
 *Sea Limited | Nov 2021 – Mar 2022*
 - **Funnel Analysis**: Analyzed user journeys (SQL) to identify drop-offs, implementing 4 feature improvements that increased active users by 20%
 - **GTM Strategy**: Developed go-to-market strategy for BNPL in LATAM, building a feature prioritization matrix targeting 200M+ addressable users
 - **Competitive Benchmarking**: Analyzed competitor digital wallets to inform product roadmap and feature prioritization
 
 **Data Analyst Intern** — Global Finance Strategic Operations
+
 *Unilever | Jan 2021 – May 2021*
 - **Dashboard Automation**: Developed an automated Power BI dashboard to visualize real-time financial KPIs across 100+ countries and 6 product categories, streamlining reporting workflows and improving business efficiency by 60%
 - **Cost Analysis**: Spearheaded cost analysis across Supply Chain and Marketing teams to evaluate tradeoffs across 3 product packaging designs, informing leadership decisions that drove a 17% increase in profit margins
